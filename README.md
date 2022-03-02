@@ -1,6 +1,6 @@
-# sample
+# Simple Login UI
 
-A new Flutter project.
+A basic login UI coded using flutter.
 
 ## Getting Started
 
